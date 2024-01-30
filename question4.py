@@ -27,6 +27,6 @@ def question4_7():
     return answer
 
 def question4_8():
-    answer = ['Ratio','Interval']
+    answer = ['Ratio','Ratio']
     return answer
 
