@@ -3,11 +3,11 @@ def question2_1():
     return answer
 
 def question2_2():
-    answer = ['Continous', 'Quantitative', 'Ratio']
+    answer = ['continuous', 'Quantitative', 'Ratio']
     return answer
 
 def question2_3():
-    answer = ['Continous', 'Quantitative', 'Interval']
+    answer = ['continuous', 'Quantitative', 'Interval']
     return answer 
 
 def question2_4():
