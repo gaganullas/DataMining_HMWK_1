@@ -1,8 +1,8 @@
 def question6_1():
     
     answer = {
-        'equal_width': ['string', 1],
-        'equal_frequency': ['string', 1]
+        'equal_width': ['No change', 9],
+        'equal_frequency': ['No change', 9]
     }
    
     return answer
