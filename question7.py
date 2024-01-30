@@ -12,6 +12,6 @@ def question7_2():
 
 def question7_3():
 
-    answer = [(0, 1), (1, 2), (2, 3), (3, 'infinity')]
+    answer = [(0.0, 1.0), (1.0, 2.0), (2.0, 3.0), (3.0, 'infinity')]
 
     return answer 
