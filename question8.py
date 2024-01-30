@@ -4,11 +4,11 @@ def question8_1():
 
 def question8_2():
 
-    answer = ’equally similar’
+    answer = 'equally similar'
     return answer
 
 def question8_3():
-    answer = ’equally similar’
+    answer = 'equally similar'
     return answer 
 
 def question8_4():
