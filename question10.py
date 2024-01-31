@@ -13,7 +13,7 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer = False
+    answer = True
     return answer
 
 def question10_5():
