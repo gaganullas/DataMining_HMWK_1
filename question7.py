@@ -6,7 +6,7 @@ def question7_1():
 
 def question7_2():
 
-    answer = 'increase/decrease'
+    answer = 'non-increasing'
 
     return answer
 
